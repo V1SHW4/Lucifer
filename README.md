@@ -21,7 +21,7 @@ pkg install git
 pip install requests 
 
 
-git clone 
+git clone https://github.com/KiLL3R-xRO/Lucifer
 
 
 cd Lucifer 
